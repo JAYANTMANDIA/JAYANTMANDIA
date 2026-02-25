@@ -15,8 +15,8 @@ and building impactful projects that solve real-world problems. 🚀
 </p>
 
 
-🔭 I'm currently working on java-step-2026
-🌱 I'm currently learning Spring Boot, React.js & DSA
+🔭 I'm currently working on internera project 
+🌱 I'm currently learning , React.js & DSA
 👨‍💻 All of my projects are available at github.com/JAYANTMANDIA
 💬 Ask me about Java, HTML, CSS and JavaScript
 📫 How to reach me: mandiajayant@gmail.com
