@@ -1,4 +1,4 @@
-<h1 align="center">HYY I AM JAYANT MANDIA</h1>
+<h1 align="center">Hyy I Am Jayant Mandia</h1>
 <p align="center">
 I am fascinated by how technology 🌐 has transformed the way we live and work.
 My passion for software engineering started early, and I love exploring new tech stacks 💻
@@ -6,6 +6,9 @@ and building impactful projects that solve real-world problems. 🚀
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JAYANTMANDIA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer+☕;Web+Developer+🌐;BTech+@+SRM+University;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
