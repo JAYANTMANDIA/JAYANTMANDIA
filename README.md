@@ -1,4 +1,4 @@
-<h1 align="center">A Passionate Developer from India 🇮🇳</h1>
+<h1 align="center">HYY I AM JAYANT MANDIA</h1>
 <p align="center">
 I am fascinated by how technology 🌐 has transformed the way we live and work.
 My passion for software engineering started early, and I love exploring new tech stacks 💻
